@@ -1,6 +1,6 @@
 # API_Exercices_DOM_JS
 
-== Intro ==
+<h2>Intro</h2>
 
 This is the repo of an exercice first made as ES5 that's going to be remake with ES6 syntaxes.
 The purpose of this exercice is to connect a web page to an API, get and send informations to this API and finally display it as a list.
