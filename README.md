@@ -19,6 +19,6 @@ I wanted to train on this exercice, because first I've learn to do it in ES5 jav
 Time has passed and I have now learned ES6 syntaxes with some frameworks.
 Each branches of this repo will contain differents versions and points I have trained on this exercice.
 
-Let's have an idea of my level by looking for my work, 
+Let's have an idea of my level by having a look on it 
 
 Have a good reading =)
