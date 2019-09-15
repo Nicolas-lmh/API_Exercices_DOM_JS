@@ -31,7 +31,7 @@ function ajaxPost(url, data, callback, isJson) {
         }
     });
     req.addEventListener("error", function () {
-        console.error("Erreur réseau avec l'URL " + url);
+        console.error("Network error on the following url: " + url);
     });
     if (isJson) {
         // Define the request à a JSON one
